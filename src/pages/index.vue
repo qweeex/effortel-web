@@ -492,8 +492,8 @@
               <input type="text" placeholder="Электронная почта" class="modal-window__form__input form-mail">
               <div class="modal-window__form__policy">
                 <div class="modal-window__form__policy__check">
-                  <img class="check__svg filled" src="assets/filled-check.svg">
-                  <img src="assets/empty-check.svg" alt="check" class="check__svg empty">
+                  <img class="check__svg filled" src="@/assets/img/filled-check.svg">
+                  <img src="@/assets/img/empty-check.svg" alt="check" class="check__svg empty">
                 </div>
                 <div class="modal-window__form__policy__text">Настоящим я даю согласие на обработку персональных данных в
                   соответствии с Политикой обработки персональных данных</div>
@@ -535,7 +535,7 @@
         <div class="burgerMenu__header">
           <div class="burgerMenu__header__wrapper">
             <div class="burgerMenu__logo">
-              <img src="assets/burger-menu-logo.svg">
+              <img src="@/assets/img/burger-menu-logo.svg">
             </div>
             <div class="burgerMenu__close">
               <svg width="60" height="40" viewBox="0 0 60 40" fill="none" xmlns="http://www.w3.org/2000/svg">
